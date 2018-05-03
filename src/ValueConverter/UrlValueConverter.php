@@ -2,6 +2,10 @@
 
 namespace IntelligentSpark\ValueConverter;
 
+/**
+ * Class UrlValueConverter
+ * @package IntelligentSpark\ValueConverter
+ */
 class UrlValueConverter {
 
     public function __invoke($input)
