@@ -2,6 +2,10 @@
 
 namespace IntelligentSpark\ValueConverter;
 
+/**
+ * Class PostalCodeValueConverter
+ * @package IntelligentSpark\ValueConverter
+ */
 class PostalCodeValueConverter {
     
     public function __invoke($input) {
